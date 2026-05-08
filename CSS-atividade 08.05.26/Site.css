@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk:MORF@15&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
+
+
+body{
+     text-align: center;
+     background-color: rgb(255, 245, 180)
+}
+
+h1{
+    font-family: "Honk", system-ui;
+    text-align: center;
+    font-size: 80px }
+
+p{
+    font-family: "Caveat Brush", cursive;
+    color: black;
+    font-size: 22px;
+}
+    
