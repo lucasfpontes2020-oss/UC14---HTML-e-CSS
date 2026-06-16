@@ -1,0 +1,26 @@
+button {
+    position: relative;
+    padding: 15px 30px;
+    background-color: blue;
+    color: white;
+    border: none;
+
+    animation: mover 10s infinite;
+}
+
+@keyframes mover {
+    0% {
+        left: 0px;
+        background-color: rgb(61, 245, 10);
+    }
+
+    50% {
+        left: 90vw;
+        background-color: rgb(253, 157, 13);
+    }
+
+    100% {
+        left: 0px;
+        background-color: rgb(249, 3, 3);
+    }
+}
